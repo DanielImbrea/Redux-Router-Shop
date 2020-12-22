@@ -1,24 +1,22 @@
-import logo from './logo.svg';
-import './App.css';
-
+import "./App.css";
+import { BrowserRouter as Router, Route, Link, Switch } from "react-router-dom";
+import { Shop } from "./components";
+import { FaShoppingCart } from "react-icons/fa";
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <>
+      <Router>
+        <div className="to__shop">
+          <Link to="/shop" className="to__shop__link">
+            <FaShoppingCart className="to__shop__icon" />
+            <p>Killer's shop</p>
+          </Link>
+        </div>
+        <Switch>
+          <Route path="/shop" exact component={Shop} />
+        </Switch>
+      </Router>
+    </>
   );
 }
 
