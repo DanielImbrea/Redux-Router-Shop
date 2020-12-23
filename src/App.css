@@ -2,19 +2,26 @@
   display: flex;
   align-items: center;
   background: rgb(209, 204, 204);
-  width: 200px;
+  width: 290px;
   justify-content: center;
   height: 100vh;
   margin: 20px auto;
   height: 60px;
   border-radius: 4px;
   text-decoration: none;
+  transition: 0.5s ease-in-out;
 }
-
 .to__shop__link:hover {
-  background: rgb(233, 231, 231);
+  background: rgb(51, 3, 3) !important;
+  transition: 0.3s all;
+  transform: scale(1.1);
 }
-
+.to__shop__link:hover p {
+  color: white;
+}
+.to__shop__link:hover .to__shop__icon {
+  fill: white;
+}
 .to__shop__icon {
   fill: rgb(0, 0, 0);
   font-size: 40px;
@@ -23,7 +30,7 @@
 
 .to__shop__link p {
   font-size: 25px;
-  color: rgb(0, 0, 0);
   text-decoration: none;
   font-weight: 600;
+  color: black;
 }

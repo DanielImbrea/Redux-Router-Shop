@@ -7,7 +7,7 @@ export default function () {
       ip_adress: "2772:e634:613:23ac:4a5:7374:f046:74cf/62",
       gender: "Female",
       credit_card: "3571548510244511",
-      image: "https://robohash.org/utoptioa.jpg?size=100x50&set=set1",
+      image: "https://robohash.org/utoptioa.jpg?size=100x100&set=set1",
     },
     {
       id: 2,
@@ -16,7 +16,7 @@ export default function () {
       ip_adress: "7283:3c61:36a7:f635:6e81:9604:251:e743/10",
       gender: "Male",
       credit_card: "374622121682545",
-      image: "https://robohash.org/quidemnonest.png?size=100x50&set=set1",
+      image: "https://robohash.org/quidemnonest.png?size=100x100&set=set1",
     },
     {
       id: 3,
@@ -25,7 +25,7 @@ export default function () {
       ip_adress: "11df:e205:603f:a68c:3c4:73cf:181b:df18/108",
       gender: "Female",
       credit_card: "4508060021248151",
-      image: "https://robohash.org/abcumtemporibus.png?size=100x50&set=set1",
+      image: "https://robohash.org/abcumtemporibus.png?size=100x100&set=set1",
     },
     {
       id: 4,
@@ -34,7 +34,7 @@ export default function () {
       ip_adress: "e8f3:d8a8:a57c:d7bd:9d6c:59b3:4566:2d9b/1",
       gender: "Male",
       credit_card: "3540597347006799",
-      image: "https://robohash.org/earumquiset.png?size=100x50&set=set1",
+      image: "https://robohash.org/earumquiset.png?size=100x100&set=set1",
     },
     {
       id: 5,
@@ -44,7 +44,7 @@ export default function () {
       gender: "Male",
       credit_card: "374622197730418",
       image:
-        "https://robohash.org/repudiandaefaciliscumque.jpg?size=100x50&set=set1",
+        "https://robohash.org/repudiandaefaciliscumque.jpg?size=100x100&set=set1",
     },
     {
       id: 6,
@@ -54,7 +54,7 @@ export default function () {
       gender: "Male",
       credit_card: "3587390412775165",
       image:
-        "https://robohash.org/sitdignissimosoptio.jpg?size=100x50&set=set1",
+        "https://robohash.org/sitdignissimosoptio.jpg?size=100x100&set=set1",
     },
     {
       id: 7,
@@ -63,7 +63,7 @@ export default function () {
       ip_adress: "34c7:3797:b636:a14e:1b26:5b2:1891:10e2/87",
       gender: "Female",
       credit_card: "4405509080081576",
-      image: "https://robohash.org/abmolestiaeest.jpg?size=100x50&set=set1",
+      image: "https://robohash.org/abmolestiaeest.jpg?size=100x100&set=set1",
     },
     {
       id: 8,
@@ -73,7 +73,7 @@ export default function () {
       gender: "Male",
       credit_card: "5108759646595778",
       image:
-        "https://robohash.org/quireiciendislaborum.png?size=100x50&set=set1",
+        "https://robohash.org/quireiciendislaborum.png?size=100x100&set=set1",
     },
     {
       id: 9,
@@ -82,7 +82,7 @@ export default function () {
       ip_adress: "ee5c:9eca:de4f:4737:a287:4f96:efe3:235/42",
       gender: "Female",
       credit_card: "3564773126440274",
-      image: "https://robohash.org/cumeumest.jpg?size=100x50&set=set1",
+      image: "https://robohash.org/cumeumest.jpg?size=100x100&set=set1",
     },
     {
       id: 10,
@@ -92,7 +92,7 @@ export default function () {
       gender: "Female",
       credit_card: "3564494251324171",
       image:
-        "https://robohash.org/eiusdelectusquaerat.jpg?size=100x50&set=set1",
+        "https://robohash.org/eiusdelectusquaerat.jpg?size=100x100&set=set1",
     },
     {
       id: 11,
@@ -102,7 +102,7 @@ export default function () {
       gender: "Male",
       credit_card: "3554640602139625",
       image:
-        "https://robohash.org/blanditiisofficiaunde.png?size=100x50&set=set1",
+        "https://robohash.org/blanditiisofficiaunde.png?size=100x100&set=set1",
     },
     {
       id: 12,
@@ -112,7 +112,7 @@ export default function () {
       gender: "Male",
       credit_card: "6759850787676236",
       image:
-        "https://robohash.org/mollitiaetmolestias.bmp?size=100x50&set=set1",
+        "https://robohash.org/mollitiaetmolestias.bmp?size=100x100&set=set1",
     },
   ];
 }
